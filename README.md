@@ -24,5 +24,3 @@ Estudante de Engenharia de Produção na Universidade Tecnológica Federal do Pa
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaGellerK)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-
-![Snake animation](https://github.com/AnaGellerK/AnaGellerK/blob/output/github-contribution-grid-snake.svg)
