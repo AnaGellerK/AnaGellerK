@@ -1,11 +1,11 @@
 ## Olá, eu sou a Ana Geller!
-Estudante de Engenharia de Produção na Universidade Tecnológica Federal do Paraná (UTFPR), apaixonada por dados e tecnologia.
+Estudante de Engenharia de Produção na Universidade Tecnológica Federal do Paraná (UTFPR), apaixonada pela área de dados e tecnologia.
 
 <div>
   <h3>Entrar em contato</h3>
-  <a href="https://www.instagram.com/anageller_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-thaynara-geller-kuchinski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:anageller.k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/anageller_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
 <br>
