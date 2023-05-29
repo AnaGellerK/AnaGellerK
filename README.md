@@ -17,7 +17,8 @@
   <img align="center" alt="Mo-Excel" height="30" width="40" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png">
   <img align="center" alt="Mo-PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img align="center" alt="Mo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Mo-MySQL" height="30" width="40" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img align="center" alt="Mo-Jupyter" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png">
+  <img align="center" alt="Mo-MySQL" height="30" width="40" src="https://img.icons8.com/fluency/48/mysql-logo.png"/>
 </div>
 
 ##
