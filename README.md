@@ -4,7 +4,7 @@
 - Atualmente estudando Python, SQL e Power BI.
 
 ##
-
+ 
 <br>
 <div align="center">
   <img height="150em"src="https://github-readme-stats.vercel.app/api?username=AnaGellerK&show_icons=true&theme=radical">
