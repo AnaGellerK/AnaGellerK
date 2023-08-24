@@ -31,8 +31,3 @@
  
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/AnaGellerK/mosaviczki/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
