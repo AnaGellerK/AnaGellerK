@@ -3,11 +3,6 @@
 #### 📚 Uma estudante de Engenharia de Produção na UTFPR, apaixonada por Data Science e BI.
 - Atualmente estudando Python, SQL e Power BI.
 
-##
- 
-
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mo-Excel" height="30" width="40" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png">
