@@ -13,7 +13,8 @@
 </div>
 
 ##
-
+| <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AnaGellerK&show_icons=true&theme=radical"></a> | <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaGellerK&layout=compact&theme=radical&count-private=true"></a> |
+| ------------- | ------------- |
 ##
 <div> 
 <a href = "https://www.linkedin.com/in/ana-thaynara-geller-kuchinski/"><img src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
