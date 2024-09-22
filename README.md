@@ -2,6 +2,7 @@
 
 #### 📚 Uma estudante de Engenharia de Produção na UTFPR, apaixonada por Data Science e BI.
 - Atualmente estudando Python, SQL e Power BI.
+- Estagiária de dados - iFood
 
 
 <div style="display: inline_block"><br>
