@@ -1,6 +1,6 @@
 ## Olá! Eu sou Ana Geller.
 
-#### 📚 Uma estudante de Engenharia de Produção na UTFPR, apaixonada por Data Science e BI.
+#### 📚 Uma estudante de Engenharia de Produção na UTFPR, apaixonada por dados.
 - Atualmente estudando Python, SQL e Power BI.
 - Estagiária de dados - iFood
 
